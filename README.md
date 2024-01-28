@@ -1,6 +1,10 @@
 # Panjere project
 
-<img style="vertical-align:middle;" src="./public/panjere.png" width="350" height="350">    
+<img style="vertical-align:middle;" src="./public/panjere.png" width="350" height="350">  
+  
+
+# We use leaflet, react-leaflet, bootstrap dependency for project
+
 
 # Getting Started with Create React App
 
