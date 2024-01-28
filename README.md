@@ -1,6 +1,6 @@
 # Panjere project
 
-<img style="vertical-align:middle;" src="./public/panjere.png" width="250" height="400">    
+<img style="vertical-align:middle;" src="./public/panjere.png" width="350" height="350">    
 
 # Getting Started with Create React App
 
