@@ -1,0 +1,55 @@
+.filterContainer {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 25rem;
+    background-color: #DFDFDF;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.cityContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+.cityContainerHr {
+    border: .1rem solid #999999;
+    width: 90%;
+    margin: .5rem 0 0 0;
+}
+
+.filterContainer select, input {
+    background-color: #999999;
+    border-radius: 10px;
+    border: none;
+    width: 85%;
+    font-size: 1.35rem;
+    font-weight: bold;
+    padding: .6rem 1rem;
+}
+
+.filterContainer input[type="checkbox"] {
+    accent-color: #FFB000;
+}
+
+
+.filterButton {
+    margin: 0;
+    font-size: 1.1rem;
+    cursor: pointer;
+    font-weight: bold;
+    width: 85%;
+    border-radius: 10px;
+    border: none;
+    padding: .5rem;
+    background-color: #FFB000;
+}
